@@ -1,3 +1,5 @@
-#### IN ACTION
+# Tabs Setup
 
-[Portfolio](https://gatsby-strapi-portfolio-project.netlify.app/)
+A simple Tabs Setup built with React.
+Built as part of a React course.
+
